@@ -15,7 +15,7 @@ function add(num1 : number, num2 : number, printResult : boolean, someText : str
 
 const n1 = 20; // number
 const n2 = 200; // number
-
+ 
 const printResult = true;
 const someText = "Sum of two numbers is = "
 
