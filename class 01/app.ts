@@ -1,5 +1,5 @@
 // number, string, boolean 
-
+ 
 function add(num1 : number, num2 : number, printResult : boolean, someText : string){
     // if(typeof num1 === "number" && typeof num2 === "number"){
     //     return num1+num2;
