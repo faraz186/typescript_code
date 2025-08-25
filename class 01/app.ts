@@ -17,7 +17,7 @@ const n1 = 20; // number
 const n2 = 200; // number
  
 const printResult = true;
-const someText = "Sum of two numbers is = "
+const someText = "Sum of two numbers is = " 
 
 add(n1, n2, printResult, someText);
 // console.log(ans);
