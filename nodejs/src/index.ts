@@ -1,5 +1,5 @@
 import express,{Request, Response, NextFunction} from "express";
-import bodyParser from "body-parser";         
+import bodyParser from "body-parser";          
 import todoRoutes from "./routes/todo";
 
 const app = express();
