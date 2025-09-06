@@ -1,7 +1,7 @@
 // Generics intro
 
 type Person = {
-    name: string;
+    name: string;  
     age: number
 }
 const Boy: Person = {
