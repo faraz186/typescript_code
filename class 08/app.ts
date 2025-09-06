@@ -1,5 +1,5 @@
 // Generics intro. 
-
+  
 type Person = {
     name: string;  
     age: number
