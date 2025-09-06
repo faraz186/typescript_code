@@ -1,4 +1,4 @@
-// Generics intro
+// Generics intro. 
 
 type Person = {
     name: string;  
